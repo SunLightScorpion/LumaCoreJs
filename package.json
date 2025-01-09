@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bson": "^6.10.1",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
